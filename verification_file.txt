@@ -1,1 +1,2 @@
 This is the first verification commit.
+Adding content for the second commit.
